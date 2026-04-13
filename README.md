@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/entity-component-system/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/entity-component-system/actions)
+[![License](https://img.shields.io/github/license/Tox1469/entity-component-system?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/entity-component-system?style=flat-square)](https://github.com/Tox1469/entity-component-system/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/entity-component-system?style=flat-square)](https://github.com/Tox1469/entity-component-system/stargazers)
+
+---
+
 # entity-component-system
 
 ECS minimalista para jogos, com entidades, componentes tipados e sistemas.
